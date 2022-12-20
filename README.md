@@ -1,5 +1,5 @@
 # Dictated-translator
-This may probably help you with libraries that work with speech to text, translate text to many languages and text to speech. All this for free, without loggin in to any service, This is a simple but functional project.
+This may probably help you with libraries that work with speech to text, translate text to many languages and text to speech. All this for free, without log in to any service, This is a simple but functional project.
 
 I had some troubles with the google_trans library, those were usually issues with the library by itself, i solve it installing googletrans 3.1.0a0 and it works properly with the project, I would recommend you to install that specific version before run the project.
 You should not have problems with the rest of the project.
