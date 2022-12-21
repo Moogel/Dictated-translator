@@ -10,6 +10,6 @@ Also you can check the documentation of each library if you wanna make some chan
 To save time the libraries you must install are:
 
 googletrans (3.1.0a0)
-speech_recognition
+Speech_Recognition
 pyttsx3
-
+pyaudio
